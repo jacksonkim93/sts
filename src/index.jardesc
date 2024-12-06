@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/sdedu/Videos/test.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/card/src/index.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/card/.project"/>
+        <folder path="/card/target"/>
+        <file path="/card/pom.xml"/>
+        <javaElement handleIdentifier="=card/src\/test\/resources=/test=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=card/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <folder path="/card/src"/>
+        <folder path="/card/sql"/>
+        <file path="/card/.classpath"/>
+        <file path="/card/version_info.txt"/>
+        <folder path="/card/react_js_src"/>
+        <file path="/card/.springBeans"/>
+        <javaElement handleIdentifier="=card/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=card/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+    </selectedElements>
+</jardesc>
